@@ -14,7 +14,7 @@
 
 - 🔭 Software Enginner at [Brisanet Telecomunicações](https://www.brisanet.com.br/).
 - :mortar_board: Graduated in **Analysis and Systems Development** by [UNIVIS](https://www.univs.edu.br/).
-- :briefcase: Professional [Angular](https://angular.io/) developer working with @nodejs stack.
+- :briefcase: Professional [Angular](https://angular.io/) developer working with java ecosystem.
 - :penguin: Enthusiast Open Source and Free Software.
 - :family: Husband and father.
 - 😄 Pronouns: He/Him.
