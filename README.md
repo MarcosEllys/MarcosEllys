@@ -12,9 +12,9 @@
 <img align='right' src='https://raw.githubusercontent.com/MarcosEllys/MarcosEllys/master/assets/bb8.gif' width='150'>
 
 
-- 🔭 Software Enginner at [Brisanet Telecomunicações](https://www.brisanet.com.br/).
+- 🔭 Software Enginner at [Grupo Portfolio](https://grupoportfolio.com.br/).
 - :mortar_board: Graduated in **Analysis and Systems Development** by [UNIVIS](https://www.univs.edu.br/).
-- :briefcase: Professional [Angular](https://angular.io/) developer working with java ecosystem.
+- :briefcase: Full stack developer working with [Angular](https://angular.io/) and [Spring Boot](https://spring.io/).
 - :penguin: Enthusiast Open Source and Free Software.
 - :family: Husband and father.
 - 😄 Pronouns: He/Him.
