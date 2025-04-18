@@ -17,7 +17,7 @@
 - :mortar_board: Postgraduate in **Software engineering** by [PUC Minas](https://www.pucminas.br/).
 - :briefcase: Full stack developer working with [Angular](https://angular.io/) and [Spring Boot](https://spring.io/).
 - :penguin: Enthusiast Open Source and Free Software.
-- :family: Husband and father.
+- :family: father.
 - 😄 Pronouns: He/Him.
 
 #
